@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "IamBatman"
+AUTHOR_URL = "https://t.me/BatmanLinkz"
 
 # Task Limits
 DIRECT_LIMIT = 0
