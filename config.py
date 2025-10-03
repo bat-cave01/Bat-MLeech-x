@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "7976012579:AAGtgdc2mieggtr5UZrZ8jjPFYalpX2CI5s"
-OWNER_ID = 1223296516
-TELEGRAM_API = 2500519
-TELEGRAM_HASH = "cc7f6fe71196642a070fbb896d31feb0"
-DATABASE_URL = "mongodb+srv://darshanjkd:darshanjk2003@database.s1v1cli.mongodb.net/?retryWrites=true&w=majority&appName=Database"
+BOT_TOKEN = ""
+OWNER_ID = 0
+TELEGRAM_API = 0
+TELEGRAM_HASH = ""
+DATABASE_URL = ""
 
 
 # OPTIONAL CONFIG
@@ -13,7 +13,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = "-1001449437277"
+AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -169,9 +169,9 @@ LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = "-1001244414009"
-LINKS_LOG_ID = "-1001244414009"
-MIRROR_LOG_ID = "-1001244414009"
+LEECH_DUMP_CHAT = "-10009"
+LINKS_LOG_ID = "-100144414009"
+MIRROR_LOG_ID = "-1001009"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
