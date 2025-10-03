@@ -1,9 +1,10 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7976012579:AAGtgdc2mieggtr5UZrZ8jjPFYalpX2CI5s"
+OWNER_ID = 1223296516
+TELEGRAM_API = 2500519
+TELEGRAM_HASH = "cc7f6fe71196642a070fbb896d31feb0"
+DATABASE_URL = "mongodb+srv://darshanjkd:darshanjk2003@database.s1v1cli.mongodb.net/?retryWrites=true&w=majority&appName=Database"
+
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
